@@ -1,6 +1,6 @@
 # :shopping: Inventory tracker
 
-You can check out the app with the link : https://github.com/LokeshDandumahanti/doramilaje/blob/main/streamlit_app.py
+You can check out the app with the link : https://inventory-trackers.streamlit.app/
 
 A Streamlit app showing how to use `st.data_editor` to read and modify a database. Behind the scenes
 this uses a simple SQLite database, but you can easily replace it with whatever your favorite DB is.
