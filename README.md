@@ -1,4 +1,4 @@
-# :shopping: Inventory tracker
+# :shopping: Inventory tracker on Streamlit and SQLite
 
 You can check out the app with the link : https://inventory-trackers.streamlit.app/
 
